@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I became interested in web and software development when I learned about AI pair programming. Since then, I have been working with ChatGPT and GitHub Copilot to work on a number of different projects to cover all of the different languages, frameworks, tools, etc. I've always been interested in. 
+
+One thing AI can't help me with is work experience. I'd love to continue learning about different technologies while working in a group that's creating projects that people care about. I've currently been focusing on Python, JavaScript and Go for my projects, but I'll be expanding to languages like Java and C++ before long. Contact me if you have or just know about some hiring opportunities that would give me some work experience.
+
 <!--
 **tmbrody/tmbrody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
